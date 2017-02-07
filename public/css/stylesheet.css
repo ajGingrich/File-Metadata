@@ -1,0 +1,17 @@
+#header {
+    margin-left: 140px;
+    color: #1024b7;
+}
+.title {
+    font-family: Arial, serif;
+}
+#title {
+    margin-left: 270px;
+}
+body {
+    background-color: #e1e2c0;
+}
+#list {
+    margin-left: 20px;
+    line-height: 150%;
+}
