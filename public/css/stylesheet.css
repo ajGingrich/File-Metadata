@@ -14,3 +14,9 @@ form {
 p {
     margin-left: 20px;
 }
+
+a {
+    color: blue;
+    font-family: Cambria, serif;
+    text-decoration: none;
+}
